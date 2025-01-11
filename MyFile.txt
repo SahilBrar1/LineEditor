@@ -1,0 +1,3 @@
+Hello connects! 
+This is my LineEditor project in C. 
+B.bye 
